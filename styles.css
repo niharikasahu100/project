@@ -1,0 +1,87 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+root{
+    display: inline;
+}
+img{
+    height: 20px;
+    width: 30px;
+}
+button{
+    padding-left: 780px;
+    padding-right: 100px;
+    margin-left: 100px;
+}
+.sidebar img{ 
+    padding-right: 10px;
+    display: flexbox;
+}
+.header-right{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    padding: 0px 5px;
+    cursor: pointer;
+    padding-left: 1240px;
+    justify-content:space-between;
+}
+.header{
+    justify-content: space-between;
+   height: 30px;
+    margin-top: 0px;
+}
+.video section{
+    background-color: #808080;
+    border-top: 1.5px solid grey;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    float: inline-start;
+    background-color: rgba(122, 118, 118, 0.158);
+    border: 1px solid grey;
+}
+.container{
+    width: 250px;
+   /* margin-right: 90px;*/
+     margin-left: 90px;
+    float: left;
+    display: grid;
+   
+}
+.thumbnail1 img{
+    height: 200px;
+    width: 300px;
+}
+.thumbnail2 img{
+    height: 200px;
+    width: 300px;
+}
+.thumbnail3 img{
+    height: 200px;
+    width: 300px;
+}
+.thumbnail4 img{
+    height: 200px;
+    width: 300px;
+}
+.thumbnail5 img{
+    height: 200px;
+    width: 300px;
+}
+.thumbnail6 img{
+    height: 200px;
+    width: 300px;
+}
+
+
+
+
+
+
+
+
